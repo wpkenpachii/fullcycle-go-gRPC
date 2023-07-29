@@ -16,3 +16,4 @@ go mod tidy # install go grpc package
 go install github.com/ktr0731/evans@latest # install evans to communicate with gRPC server create
 sudo apt install sqlite3 # install sqlite3 to create tablse
 ```
+
